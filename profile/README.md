@@ -9,7 +9,8 @@
 
 | Projektname   | Entwickler   | Status         |
 |---------------|--------------|----------------|
-| Icarus        | .smplx       | In Entwicklung |
+| Icarus        | .smplx       | Pausiert       |
+| Helios        | .smplx       | In Entwicklung |
 | Hydron        | ju0x         | Pausiert       |
 | Polaron       | ju0x         | In Entwicklung |
 
