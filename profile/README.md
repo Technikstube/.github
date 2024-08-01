@@ -5,12 +5,3 @@
 
 [Trete unserem Discord bei!](https://discord.gg/SgJygmk4FN)
 
-## Projekte
-
-| Projektname   | Entwickler   | Status         |
-|---------------|--------------|----------------|
-| Icarus        | .smplx       | Pausiert       |
-| Helios        | .smplx       | Fertiggestellt |
-| Hydron        | ju0x         | Pausiert       |
-| Polaron       | ju0x         | In Entwicklung |
-
